@@ -25,7 +25,7 @@ x, y, name, is_cool = (1, 2.55, "SMK", False)
 x = x+y
 print(x)
 
-# CastingP
+# Casting
 x = str(x)
 y = int(y)
 
